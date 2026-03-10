@@ -33,7 +33,7 @@
 
 ## 完整系统提示词（System Prompt）
 
-> 以下为可直接粘贴到 `system-prompt.md` 的完整提示词。
+> 以下为可直接复制粘贴给新建agent的完整提示词。
 
 ```markdown
 # ChainPal — Your On-Chain Companion (链上搭子)
